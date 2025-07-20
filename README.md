@@ -81,19 +81,21 @@ Many of these ideas will surface in my open-source projects above (Aug–Oct 202
 
 ---
 
-## 📊 GitHub Stats
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  ![Dimple's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimplek0424&show_icons=true&theme=default)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimplek0424&layout=compact)
-
-</details>
+🧭 **Long-term:** I aim to contribute to responsible AI through interdisciplinary research and real-world applications — blending systems engineering with domain-specific AI.
 
 ---
 
-🧭 **Long-term:** I aim to contribute to responsible AI through interdisciplinary research and real-world applications — blending systems engineering with domain-specific AI.
+## 📊 GitHub Stats
+
+<details>
+  <summary>Click to expand GitHub Stats 📈</summary>
+
+  <br>
+
+  ![Dimple's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimplek0424&show_icons=true&theme=default)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimplek0424&layout=compact)
+
+</details>
 
 ---
 
