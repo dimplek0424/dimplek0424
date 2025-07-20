@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dimple Khatri
 
-🔍 I transform messy real-world problems into clean, scalable code — and I love building AI-powered systems that make a meaningful difference.
+I transform messy real-world problems into clean, scalable code — and I love building AI-powered systems that make a meaningful difference.
 
 - Currently exploring how GenAI, RAG pipelines, AI Agents, and multi-cloud orchestration can power the next generation of intelligent products, especially in healthcare and education.
 - I’m also pursuing research in explainable GenAI and clinical knowledge retrieval, aiming to bridge the gap between engineering and applied research through open-source tools and publications.
@@ -84,7 +84,7 @@ Many of these ideas will surface in my open-source projects above (Aug–Oct 202
 
 ---
 
-## 🧭 Long-term, I aim to contribute to responsible AI through interdisciplinary research and real-world applications — blending systems engineering with domain-specific AI.
+🧭 **Long-term:** I aim to contribute to responsible AI through interdisciplinary research and real-world applications — blending systems engineering with domain-specific AI.
 
 ---
 
