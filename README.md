@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Dimple Khatri
 
-I transform messy real-world problems into clean, scalable code, combining my foundation in Java full-stack engineering with a growing body of work in GenAI research and cloud-native AI pipelines.
+I turn complex real-world problems into clean, scalable systems — blending my expertise in **Java backend engineering** with hands-on innovation in **AI/ML and GenAI**.
 
-- Currently exploring how GenAI, RAG pipelines, AI Agents, and multi-cloud orchestration can power the next generation of intelligent products, especially in healthcare and education.
-- I’m also pursuing research in explainable GenAI and clinical knowledge retrieval, aiming to bridge the gap between engineering and applied research through open-source tools and publications.
+- Currently building **retrieval-augmented generation (RAG)** systems, **AI agents**, enterprise-ready **LLM integrations**, and **cloud-native microservices** for domains like healthcare, education, and e-commerce.
+- Passionate about bridging the gap between engineering and applied research through **explainable GenAI** and open-source tooling.
 
 ---
 
@@ -21,14 +21,14 @@ I transform messy real-world problems into clean, scalable code, combining my fo
 
 ## 🚀 Key Projects (Live & Upcoming)
 
-| Project                      | Status                  | Focus Area         | Stack Highlights                                                    |
-|------------------------------|--------------------------|--------------------|---------------------------------------------------------------------|
-| [RAG-FastAPI-Showcase](https://github.com/dimplek0424/RAG-FastAPI-Showcase) | ✅ Live                   | RAG + GenAI         | GPT-4, LangChain, ChromaDB, FastAPI                                  |
-| CloudMart                   | 🚧 Coming July '25        | E-Commerce + AI    | AWS, Azure, GCP, Terraform, Bedrock, React                          |
-| LangAPI-Java                | 🚧 Coming August '25      | GenAI Integration  | Java, Spring Boot, LangChain API Wrapper, Docker                    |
-| Driver Drowsiness           | 🚧 Coming August '25      | CV + ML            | TensorFlow, OpenCV, Flask/FastAPI                                   |
-| ClaimChain-Java             | 🚧 Coming September '25   | Healthcare Claims  | Java, Spring Boot, PostgreSQL, Kafka *(Mock EDI Processor)*         |
-| HealthRiskAPI               | 🚧 Coming October '25     | Healthcare + ML    | FastAPI, Scikit-learn, Pandas *(Java-backed ETL planned)*           |
+| Project                                                                 | Status                | Focus Area                            | Stack Highlights                                                             |
+|-------------------------------------------------------------------------|------------------------|----------------------------------------|------------------------------------------------------------------------------|
+| [RAG-FastAPI-Showcase](https://github.com/dimplek0424/RAG-FastAPI-Showcase) | ✅ Live               | RAG + GenAI                            | GPT-4, LangChain, ChromaDB, FastAPI                                          |
+| **CloudMart**                                                           | 🚧 Coming July ’25    | AI-Powered E-commerce (MultiCloud)     | AWS, Azure, GCP, Terraform, Bedrock, DevOps, AI                                   |
+| **LangAPI-Java**                                                        | 🚧 Coming August ’25  | Java Integration for LLM APIs          | Java, Spring Boot, LangChain API Wrapper, Docker                             |
+| **Driver Drowsiness**                                                  | 🚧 Coming August ’25  | CV + ML                      | TensorFlow, OpenCV, Flask/FastAPI                                            |
+| **ClaimChain-Java**                                                    | 🚧 Coming September ’25 | Healthcare Claims Automation         | Java, Spring Boot, PostgreSQL, Kafka *(Mock EDI Processor)*                 |
+| **HealthRiskAPI**                                                      | 🚧 Coming October ’25 | Predictive Risk Scoring for Patients (ML API)          | FastAPI, Scikit-learn, Pandas *(Java-backed ETL planned)*                    |
 
 ---
 
@@ -41,9 +41,9 @@ I'm currently exploring how to bridge applied engineering with research-driven A
 - **Cloud-first AI pipelines** across AWS, GCP, and Terraform
 - **Explainable GenAI** for healthcare and education
 - **Training small LLMs** for the right use cases — balancing performance, cost, and relevance
-- I'm also prototyping ways to integrate Java-based backends with LLM APIs for enterprise-ready AI systems
+- I'm also prototyping ways to **integrate Java-based backends with LLM APIs** for enterprise-ready AI systems
 
-Many of these ideas will surface in my open-source projects above (Aug–Oct 2025).
+Most of these ideas will surface in my open-source work (Aug–Oct 2025).
 
 ---
 
@@ -55,9 +55,10 @@ Many of these ideas will surface in my open-source projects above (Aug–Oct 202
 ---
 
 ## 💬 What I Love Talking About
+- Writing expressive, modern **Java code** — from Java 6 in 2015 to Java 17+ today (and always ready for what's next)
 - Turning AI prototypes into production systems  
 - RAG workflows that actually retrieve the right context 😉  
-- Making backend systems as lovable as frontend ones
+- Making backend systems as lovable as frontend ones — clean, performant, and joyful to build
 
 ---
 
