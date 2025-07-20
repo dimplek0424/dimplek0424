@@ -84,5 +84,9 @@ Many of these ideas will surface in my open-source projects above (Aug–Oct 202
 
 ---
 
+## 🧭 Long-term, I aim to contribute to responsible AI through interdisciplinary research and real-world applications — blending systems engineering with domain-specific AI.
+
+---
+
 _Thank you for visiting! I'm always open to collaboration on impactful tech projects._
 
