@@ -19,54 +19,24 @@ I turn complex real-world problems into clean, scalable systems — blending my 
 
 ---
 
-## 🚀 Key Projects (Live & Upcoming)
-
-| Project                                                                 | Status                | Focus Area                            | Stack Highlights                                                             |
-|-------------------------------------------------------------------------|------------------------|----------------------------------------|------------------------------------------------------------------------------|
-| [RAG-FastAPI-Showcase](https://github.com/dimplek0424/RAG-FastAPI-Showcase) | ✅ Live               | RAG + GenAI                            | GPT-4, LangChain, ChromaDB, FastAPI                                          |
-| **CloudMart**                                                           | 🚧 Coming July ’25    | AI-Powered E-commerce (MultiCloud)     | AWS, Azure, GCP, Terraform, Bedrock, DevOps, AI                                   |
-| **LangAPI-Java**                                                        | 🚧 Coming August ’25  | Java Integration for LLM APIs          | Java, Spring Boot, LangChain API Wrapper, Docker                             |
-| **Driver Drowsiness**                                                  | 🚧 Coming August ’25  | CV + ML                      | TensorFlow, OpenCV, Flask/FastAPI                                            |
-| **ClaimChain-Java**                                                    | 🚧 Coming September ’25 | Healthcare Claims Automation         | Java, Spring Boot, PostgreSQL, Kafka *(Mock EDI Processor)*                 |
-| **HealthRiskAPI**                                                      | 🚧 Coming October ’25 | Predictive Risk Scoring for Patients (ML API)          | FastAPI, Scikit-learn, Pandas *(Java-backed ETL planned)*                    |
-
----
-
-## 🧪 What I'm Researching & Building
-
-I'm currently exploring how to bridge applied engineering with research-driven AI tools, particularly in the following areas:
-
-- **GenAI frameworks** like LangChain, LangGraph & Bedrock Agents  
-- **RAG agents** with persistent memory and vector-backed QA  
-- **Cloud-first AI pipelines** across AWS, GCP, and Terraform
-- **Explainable GenAI** for healthcare and education
-- **Training small LLMs** for the right use cases — balancing performance, cost, and relevance
-- I'm also prototyping ways to **integrate Java-based backends with LLM APIs** for enterprise-ready AI systems
-
-Most of these ideas will surface in my open-source work (Aug–Oct 2025).
-
----
-
-## 👯 I’m looking to collaborate on...
-- **Healthcare & EdTech GenAI tools**  
-- **LLM-based research or open-source projects**  
-- Community-driven **tech mentoring & workshops**
-
----
-
 ## 💬 What I Love Talking About
-- Writing expressive, modern **Java code** — from Java 6 in 2015 to Java 17+ today (and always ready for what's next)
+- Writing expressive, modern **Java code** — from Java 6 in 2015 to Java 17+ today (always ready for what's next)
 - Turning AI prototypes into production systems  
 - RAG workflows that actually retrieve the right context 😉  
 - Making backend systems as lovable as frontend ones — clean, performant, and joyful to build
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Key Projects (Live & Upcoming)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/dpk-dimplekhatri)
-[![GitHub](https://img.shields.io/badge/GitHub-dimplek0424-black?logo=github)](https://github.com/dimplek0424)
-[![Email](https://img.shields.io/badge/Gmail-dimplek0424@gmail.com-red?logo=gmail)](mailto:dimplek0424@gmail.com)
+| Project                                                                 | Status                | Focus Area                            | Stack Highlights                                                             |
+|-------------------------------------------------------------------------|------------------------|----------------------------------------|------------------------------------------------------------------------------|
+| [RAG-FastAPI-Showcase](https://github.com/dimplek0424/RAG-FastAPI-Showcase) | ✅ Live               | RAG + GenAI                            | GPT-4, LangChain, ChromaDB, FastAPI, React                                          |
+| **CloudMart**                                                           | 🚧 Coming July ’25    | AI-Powered E-commerce (MultiCloud)     | AWS, Azure, GCP, Terraform, Bedrock, CI/CD, AI                                   |
+| **LangAPI-Java**                                                        | 🚧 Coming August ’25  | Java Integration for LLM APIs          | Java, Spring Boot, LangChain API Wrapper, Docker                             |
+| **Driver Drowsiness**                                                  | 🚧 Coming August ’25  | CV + ML                      | TensorFlow, OpenCV, Flask/FastAPI                                            |
+| **ClaimChain-Java**                                                    | 🚧 Coming September ’25 | Healthcare Claims Automation         | Java, Spring Boot, PostgreSQL, Kafka *(Mock EDI Processor)*                 |
+| **HealthRiskAPI**                                                      | 🚧 Coming October ’25 | Predictive Risk Scoring for Patients (ML API)          | FastAPI, Scikit-learn, Pandas *(Java-backed ETL planned)*                    |
 
 ---
 
@@ -82,7 +52,37 @@ Most of these ideas will surface in my open-source work (Aug–Oct 2025).
 
 ---
 
+## 👯 I’m looking to collaborate on...
+- **Healthcare & EdTech GenAI tools**  
+- **LLM-based research or open-source projects**  
+- Community-driven **tech mentoring & workshops**
+
+---
+
+## 🧪 What I'm Researching & Building
+
+I'm currently exploring how to bridge applied engineering with research-driven AI tools, particularly in the following areas:
+
+- Prototyping ways to **integrate Java-based backends with LLM APIs** — making GenAI accessible to enterprise-grade systems
+- **GenAI frameworks** like LangChain, LangGraph & Bedrock Agents  
+- **RAG agents** with persistent memory and vector-backed QA  
+- **Cloud-first AI pipelines** across AWS, GCP, and Terraform
+- **Explainable GenAI** for healthcare and education
+- **Training small LLMs** for the right use cases — balancing performance, cost, and relevance
+  
+Most of these ideas will surface in my open-source work (Aug–Oct 2025).
+
+---
+
 🧭 **Long-term:** I aim to contribute to responsible AI through interdisciplinary research and real-world applications — blending systems engineering with domain-specific AI.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/dpk-dimplekhatri)
+[![GitHub](https://img.shields.io/badge/GitHub-dimplek0424-black?logo=github)](https://github.com/dimplek0424)
+[![Email](https://img.shields.io/badge/Gmail-dimplek0424@gmail.com-red?logo=gmail)](mailto:dimplek0424@gmail.com)
 
 ---
 
