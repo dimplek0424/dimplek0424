@@ -2,8 +2,8 @@
 
 🔍 I transform messy real-world problems into clean, scalable code — and I love building AI-powered systems that make a meaningful difference.
 
-Currently exploring how GenAI, RAG pipelines, AI Agents, and multi-cloud orchestration can power the next generation of intelligent products, especially in healthcare and education.
-I’m also pursuing research in explainable GenAI and clinical knowledge retrieval, aiming to bridge the gap between engineering and applied research through open-source tools and publications.
+- Currently exploring how GenAI, RAG pipelines, AI Agents, and multi-cloud orchestration can power the next generation of intelligent products, especially in healthcare and education.
+- I’m also pursuing research in explainable GenAI and clinical knowledge retrieval, aiming to bridge the gap between engineering and applied research through open-source tools and publications.
 
 ---
 
