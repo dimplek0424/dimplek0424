@@ -29,15 +29,6 @@ I turn complex real-world problems into clean, scalable systems — blending my 
 
 ## 🚀 Key Projects (Live & Upcoming)
 
-| Project                                                                 | Status                | Focus Area                            | Stack Highlights                                                             |
-|-------------------------------------------------------------------------|------------------------|----------------------------------------|------------------------------------------------------------------------------|
-| [RAG-FastAPI-Showcase](https://github.com/dimplek0424/RAG-FastAPI-Showcase) | ✅ Live               | RAG + GenAI                            | GPT-4, LangChain, ChromaDB, FastAPI, React                                          |
-| **CloudMart**                                                           | 🚧 Coming July ’25    | AI-Powered E-commerce (MultiCloud)     | AWS, Azure, GCP, Terraform, Bedrock, CI/CD, AI                                   |
-| **LangAPI-Java**                                                        | 🚧 Coming August ’25  | Java Integration for LLM APIs          | Java, Spring Boot, LangChain API Wrapper, Docker                             |
-| **Driver Drowsiness**                                                  | 🚧 Coming August ’25  | CV + ML                      | TensorFlow, OpenCV, Flask/FastAPI                                            |
-| **ClaimChain-Java**                                                    | 🚧 Coming September ’25 | Healthcare Claims Automation         | Java, Spring Boot, PostgreSQL, Kafka *(Mock EDI Processor)*                 |
-| **HealthRiskAPI**                                                      | 🚧 Coming October ’25 | Predictive Risk Scoring for Patients (ML API)          | FastAPI, Scikit-learn, Pandas *(Java-backed ETL planned)*                    |
-
 | Project | Status | Focus Area | Stack Highlights | Use Case / Application |
 |--------|--------|-------------|------------------|-------------------------|
 | [RAG-FastAPI-Showcase](https://github.com/dimplek0424/RAG-FastAPI-Showcase) | ✅ Live | RAG + GenAI | GPT-4, LangChain, ChromaDB, FastAPI, React | AI assistant that answers user questions based on PDF content — ideal for internal knowledge bases, SOPs, or research summaries |
