@@ -52,13 +52,6 @@ I turn complex real-world problems into clean, scalable systems — blending my 
 
 ---
 
-## 👯 I’m looking to collaborate on...
-- **Healthcare & EdTech GenAI tools**  
-- **LLM-based research or open-source projects**  
-- Community-driven **tech mentoring & workshops**
-
----
-
 ## 🧪 What I'm Researching & Building
 
 I'm currently exploring how to bridge applied engineering with research-driven AI tools, particularly in the following areas:
@@ -75,6 +68,13 @@ Most of these ideas will surface in my open-source work (Aug–Oct 2025).
 ---
 
 🧭 **Long-term:** I aim to contribute to responsible AI through interdisciplinary research and real-world applications — blending systems engineering with domain-specific AI.
+
+---
+
+## 👯 I’m looking to collaborate on...
+- **Healthcare & EdTech GenAI tools**  
+- **LLM-based research or open-source projects**  
+- Community-driven **tech mentoring & workshops**
 
 ---
 
