@@ -38,6 +38,15 @@ I turn complex real-world problems into clean, scalable systems — blending my 
 | **ClaimChain-Java**                                                    | 🚧 Coming September ’25 | Healthcare Claims Automation         | Java, Spring Boot, PostgreSQL, Kafka *(Mock EDI Processor)*                 |
 | **HealthRiskAPI**                                                      | 🚧 Coming October ’25 | Predictive Risk Scoring for Patients (ML API)          | FastAPI, Scikit-learn, Pandas *(Java-backed ETL planned)*                    |
 
+| Project | Status | Focus Area | Stack Highlights | Use Case / Application |
+|--------|--------|-------------|------------------|-------------------------|
+| [RAG-FastAPI-Showcase](https://github.com/dimplek0424/RAG-FastAPI-Showcase) | ✅ Live | RAG + GenAI | GPT-4, LangChain, ChromaDB, FastAPI, React | AI assistant that answers user questions based on PDF content — ideal for internal knowledge bases, SOPs, or research summaries |
+| **CloudMart**     | 🚧 July ’25 | AI-Powered E-commerce (MultiCloud) | AWS, Azure, GCP, Terraform, Bedrock, CI/CD, AI | Scalable multi-cloud retail platform with real-time order processing, customer sentiment analysis, and AI-driven product recommendations |
+| **LangAPI-Java** | 🚧 August ’25 | Java Integration for LLM APIs | Java, Spring Boot, LangChain API Wrapper, Docker | Java wrapper to enable legacy backends to consume LLM APIs — helpful for enterprises modernizing their infrastructure |
+| **Driver Drowsiness** | 🚧 August ’25 | CV + ML | TensorFlow, OpenCV, Flask/FastAPI | Real-time drowsiness detection from webcam feed — useful for safety applications in transportation or fleet systems |
+| **ClaimChain-Java** | 🚧 September ’25 | Healthcare Claims Automation | Java, Spring Boot, PostgreSQL, Kafka *(Mock EDI Processor)* | Simulates real-world healthcare claims flow — useful for demonstrating backend APIs and event-driven automation in healthtech |
+| **HealthRiskAPI** | 🚧 October ’25 | Predictive Risk Scoring (ML API) | FastAPI, Scikit-learn, Pandas *(Java-backed ETL planned)* | Predictive ML API to assess patient risk from medical records — applicable for clinical decision support or preventive health systems |
+
 ---
 
 ## 🧩 Career Journey & Leadership
