@@ -20,7 +20,7 @@ I turn complex real-world problems into clean, scalable systems — blending my 
 ---
 
 ## 💬 What I Love Talking About
-- Writing expressive, modern **Java code** — from Java 6 in 2015 to Java 17+ today (always ready for what's next)
+- Writing expressive, modern **Java code** — from Java 6 in 2015 to Java 8 to Java 17+ today (always ready for what's next)
 - Turning AI prototypes into production systems  
 - RAG workflows that actually retrieve the right context 😉  
 - Making backend systems as lovable as frontend ones — clean, performant, and joyful to build
