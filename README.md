@@ -7,6 +7,18 @@ I turn complex real-world problems into clean, scalable systems — blending my 
 
 ---
 
+## 🎓 Research Milestones (2025)
+
+- 🧩 **Poster Talk** – Accepted at *GIW XXXIV ISCB Main Conference 2025*  
+  *Topic: Benchmarking Medical Vision–Language Models for Explainable AI in Healthcare.*
+
+- 🎤 **Oral Talk** – Accepted at *ASCS 2025 Symposium*  
+  *Topic: Generative AI Pipelines for Multimodal Clinical Data Understanding.*
+
+These recognitions highlight ongoing work in **Explainable GenAI for Healthcare** and [**Medical Vision–Language Models (MedVLM Phase-1)**](https://github.com/dimplek0424/MedVLMPhase1).
+
+---
+
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-17-blue?logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=springboot)
